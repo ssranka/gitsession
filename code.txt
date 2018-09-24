@@ -1,4 +1,5 @@
 <<<<<<< HEAD
 changes by bob
 changes by alice
+changes by kat
 >>>>>>> firstbranch
